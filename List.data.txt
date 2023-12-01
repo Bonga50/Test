@@ -2,3 +2,5 @@ Home
 Food
 Bed
 Sleep
+Code
+Run away
